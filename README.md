@@ -4,5 +4,5 @@
 *CSS
 *Git
 *JavaScript
-![Осень в Париже](/img/Paris.jpg)
-<image src="/img/Paris.jpg" alt="Осень в Париже">
+![Осень в Париже](img/Paris.jpg)
+<image src="img/Paris.jpg" alt="Осень в Париже">
